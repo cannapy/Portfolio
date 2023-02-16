@@ -5,3 +5,5 @@ I am taking stat, learning numpy in a class that teaches R, maintaining pace wit
 Studying machine learning, deep learning, data mining, and advanced algorithms with MERN and SQL.
 
 I am become a jack of all trades fullstack analyst.
+
+https://cannapy.github.io/terminal/
