@@ -1,3 +1,3 @@
-Html, CSS, JS, React, Express, Node, MySQL, Numpy, Matplotlib, PyTorch, Pandas, Python, Flask, C++
+Html, CSS, JS, React, Express, Node, MySQL,  Python, Flask, Numpy, Pandas, Matplotlib, Scikit-Learn, PyTorch, C++
 
 https://cannapy.github.io/terminal/
