@@ -1,3 +1,3 @@
-Html, CSS, JS, React, Express, Node, MySQL,  Python, Flask, Numpy, Pandas, Matplotlib, Scikit-Learn, PyTorch, C++
+CLICK: 'resume.png'
 
 https://cannapy.github.io/terminal/
