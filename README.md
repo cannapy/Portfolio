@@ -1,3 +1,1 @@
-CLICK: 'resume.png'
-
-https://cannapy.github.io/terminal/
+https://github.com/davidmoyer88/Portfolio/blob/main/Resume.png
